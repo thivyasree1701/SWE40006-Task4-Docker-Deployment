@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local development files
+.vs/
+.vscode/
+
+# Secrets and private keys
+.env
+.env.*
+*.pem
+*.key
+
+# Operating system files
+.DS_Store
+Thumbs.db
